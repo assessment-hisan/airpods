@@ -90,7 +90,7 @@ const Hero = () => {
                 src={activeData.image} alt={activeData.title} className='w-[400px] md:w-[500px] xl:w-[600px] relative z-10'/>
                 </AnimatePresence>
            
-                <div className='text-[100px] sm:text-[150px] md:text-[200px] lg:text-[280px] absolute  top-[7%] lg:-top-[9%]   sm:left-0 sm:-translate-x-1/2 z-0 font-Poppins bg-gradient-to-t from-white/5 to-white/70 bg-clip-text text-transparent font-extrabold select-none'>
+                <div className=' text-[100px] sm:text-[170px] md:text-[200px] lg:text-[280px] absolute  top-[7%] lg:-top-[9%]   lg:left-0 lg:-translate-x-1/2 z-0 font-Poppins bg-gradient-to-t from-white/5 to-white/70 bg-clip-text text-transparent font-extrabold select-none'>
     AirPods
 </div>
             </div>
